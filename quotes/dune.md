@@ -6,4 +6,8 @@
 change
 =======
 * "The spice must flow."
+<<<<<<< HEAD
 >>>>>>> 4b5b774 (H: added quote)
+=======
+* "Fear is the mind-killer."
+>>>>>>> 1146919 (I: updated quotes)
